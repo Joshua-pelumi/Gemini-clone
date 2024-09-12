@@ -1,2 +1,2 @@
 # Gemini-clone
-project live link 
+project live link - https://gemini-clone-projects.netlify.app/
